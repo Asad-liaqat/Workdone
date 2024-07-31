@@ -1,0 +1,1 @@
+yolo detect predict model=yolov8x.pt device=0 source=0 show=True classes=0
